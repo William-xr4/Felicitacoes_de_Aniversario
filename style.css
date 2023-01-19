@@ -1,0 +1,9 @@
+.bodyBackground{
+    background-image:url(hOye.gif);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas{
+   border:10px double rgb(0, 119, 255);
+}
+
